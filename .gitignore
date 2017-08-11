@@ -104,5 +104,4 @@ ENV/
 
 .#*
 src/*.html
-data/
 .tmp/
